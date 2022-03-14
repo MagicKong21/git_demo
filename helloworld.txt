@@ -7,4 +7,4 @@ Hello Hugo, hello world.
 Hello Hugo, hello world.
 Hello Hugo, hello world.
 Hello Hugo, hello world.
-Hello Hugo, hello world.
+Hello Hugo, hello world. hot-fix test
